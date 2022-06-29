@@ -5,6 +5,7 @@
 ! avatar: #414040
 
 $boost=10,site=fr.wikipedia.org
+$boost=10,site=gallica.bnf.fr
 
 ! StackOverflow translations
 $discard,site=alltodev.com
